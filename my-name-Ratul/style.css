@@ -1,0 +1,12 @@
+h2{
+    background-color: aqua;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px firebrick;
+}
+p{
+    background-color: orange;
+    font-size: larger;
+}
+ol{
+    border: 10px solid forestgreen;
+}
